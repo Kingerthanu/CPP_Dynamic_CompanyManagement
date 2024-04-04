@@ -10,3 +10,4 @@ This Program Taught Me A Lot More About Data-Handling; I Created This Program Us
 <img src="https://media.giphy.com/media/7A1ZCMkDzxYp1HoJoO/giphy.gif" alt="Blender + Fork = Yummers" width="320" height="490">
 
  I learned A LOT About Move Semantics And Actually See New Applications of It In Future Projects As I Inferred References Were As Best As We Could Get. I Also Learned A Lot About Proper Contract-Derived Input/Output Sanitization Like In Copy Operators and Our Banking On Our Contracts Being Upheld In Order To Get Some Exciting Code Written Without Annoying Overhead In Some Edge Cases. I Also Muchhhh More Comfortable With Visual Studios Debugging Tool As I Didn't Use Valgrind Or Any Other External Software So Learned A Lot About BreakPoints And Actually How To Sift Through Our Code (Mainly If We Have Reoccuring Code) For Bugs Or Leaks.
+<img src="https://media.giphy.com/media/eiLCRSxfO0zymHHecI/giphy.gif" alt="Blender + Fork = Yummers" width="320" height="490">
