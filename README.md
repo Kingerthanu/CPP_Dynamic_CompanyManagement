@@ -3,7 +3,8 @@ This Program Works to Create Dynamic Deep Hierachies Between Varying Interlinked
 
 
 ----------------------------------------------
-<img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/7a227e03-a055-4dbf-ac2e-3360ba8792e1" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/7a227e03-a055-4dbf-ac2e-3360ba8792e1" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/7a227e03-a055-4dbf-ac2e-3360ba8792e1" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/7a227e03-a055-4dbf-ac2e-3360ba8792e1" alt="Cornstarch <3" width="55" height="49">
+
+<img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/e6b2dd2a-b96b-481c-9f4c-d756fc087580" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/e6b2dd2a-b96b-481c-9f4c-d756fc087580" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/e6b2dd2a-b96b-481c-9f4c-d756fc087580" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/e6b2dd2a-b96b-481c-9f4c-d756fc087580" alt="Cornstarch <3" width="55" height="49">
 
 **The Breakdown:**
 
@@ -21,10 +22,7 @@ This Program Taught Me A Lot More About Data-Handling; I Created This Program Us
 <img src="https://media.giphy.com/media/eiLCRSxfO0zymHHecI/giphy.gif" alt="Blender + Fork = Yummers" width="420" height="290">
 
 
-
-
-<img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/e6b2dd2a-b96b-481c-9f4c-d756fc087580" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/e6b2dd2a-b96b-481c-9f4c-d756fc087580" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/e6b2dd2a-b96b-481c-9f4c-d756fc087580" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/e6b2dd2a-b96b-481c-9f4c-d756fc087580" alt="Cornstarch <3" width="55" height="49">
-
+<img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/7a227e03-a055-4dbf-ac2e-3360ba8792e1" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/7a227e03-a055-4dbf-ac2e-3360ba8792e1" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/7a227e03-a055-4dbf-ac2e-3360ba8792e1" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/7a227e03-a055-4dbf-ac2e-3360ba8792e1" alt="Cornstarch <3" width="55" height="49">
 
 ----------------------------------------------
 
