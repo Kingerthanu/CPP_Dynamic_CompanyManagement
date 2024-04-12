@@ -28,4 +28,7 @@ This Program Taught Me A Lot More About Data-Handling; I Created This Program Us
 
 ----------------------------------------------
 
+<img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/95e73486-3d93-4730-9ccb-c73b66a82fee" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/95e73486-3d93-4730-9ccb-c73b66a82fee" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/95e73486-3d93-4730-9ccb-c73b66a82fee" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/95e73486-3d93-4730-9ccb-c73b66a82fee" alt="Cornstarch <3" width="55" height="49">
+
+
 **Features:**
