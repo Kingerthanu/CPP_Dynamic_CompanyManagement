@@ -1,5 +1,5 @@
 # CPP_Dynamic_CompanyManagement
-This Program Works to Create Dynamic Deep Hierachies Between Varying Interlinked Objects Using Principles of Programming-by-Contract, Rule-of-5, Data-Batching, Using a Practical Design Model, As Well As Contractual Data Sharing/Transferring of Companies and Their Management of Associated Teams and Employees in Order To Create A Robust CodeBase (revolutionary ik).
+This Program Works to Create Dynamic Deep Hierachies Between Varying Interlinked Objects Using Principles of Programming-by-Contract, Rule-of-5, Data-Batching, Using a Practical Design Model, As Well As Contractual Data Sharing/Transferring of Companies and Their Management of Associated Teams and Employees in Order To Create A Robust CodeBase.
 
 
 ----------------------------------------------
