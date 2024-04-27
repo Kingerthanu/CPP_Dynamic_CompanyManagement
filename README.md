@@ -31,6 +31,7 @@ This Program Taught Me A Lot More About Data-Handling; I Created This Program Us
 
 **Features:**
 
+![cPloosPloos-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/CPP_Std_Dynamic_CompanyManagement/assets/76754592/7d37674f-f22a-41f7-ab6c-7cdae138f48d)
 
 
 
